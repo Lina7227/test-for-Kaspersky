@@ -1,7 +1,0 @@
-.carousel__block-card{
-    display: flex;
-    flex-direction: column;
-    background: linear-gradient(360deg, rgba(242, 242, 242, 0) 4.84%, #F2F2F2 50.87%, #F2F2F2 100%);
-    margin: 0;
-    padding: 0;
-}
