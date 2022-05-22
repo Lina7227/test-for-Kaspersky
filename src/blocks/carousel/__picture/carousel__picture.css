@@ -1,0 +1,13 @@
+.carousel__picture {
+    display: block;
+    margin: 0;
+    padding: 0;
+    max-width: 37px;
+    height: 37px;
+}
+
+@media (min-width: 1000px) {
+    .carousel__picture {
+        margin: 0 17px 0 0;
+    }
+}

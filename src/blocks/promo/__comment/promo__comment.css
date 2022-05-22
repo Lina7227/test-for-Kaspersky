@@ -1,0 +1,45 @@
+.promo__comment {
+    display: flex;
+    flex-direction: column;
+    margin: 30px auto;
+    width: 300px;
+}
+
+@media (min-width: 600px) {
+    .promo__comment{
+        width: 500px;
+    }
+}
+
+@media (min-width: 900px) {
+    .promo__comment{
+        flex-direction: row;
+        justify-content: space-between;
+        width: 800px;
+        margin: 30px auto 10px 40px;
+    }
+}
+
+@media (min-width: 1000px) {
+    .promo__comment{
+        margin: 30px auto 10px 60px;
+    }
+}
+
+@media (min-width: 1100px) {
+    .promo__comment{
+        margin: 30px auto 10px 100px;
+    }
+}
+
+@media (min-width: 1150px) {
+    .promo__comment{
+        margin: 30px auto 10px 120px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .promo__comment{
+        margin: 30px auto 10px 170px;
+    }
+}

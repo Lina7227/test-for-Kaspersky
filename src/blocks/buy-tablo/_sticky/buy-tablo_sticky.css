@@ -1,0 +1,6 @@
+.buy-tablo_sticky {
+    display: flex;
+    position: sticky;
+    bottom: 0px;
+    z-index: 1;
+}

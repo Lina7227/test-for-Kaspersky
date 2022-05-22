@@ -1,0 +1,28 @@
+.carousel__text-name {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #1D1D1B;
+    margin: 0 0 8px;
+}
+
+@media (min-width: 700px) {
+    .carousel__text-name {
+        margin: 16px 0 8px;
+        font-size: 16px;
+        line-height: 19px;
+        max-width: 160px;
+    }
+}
+
+@media (min-width: 900px) {
+    .carousel__text-name {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 1000px) {
+    .carousel__text-name {
+        margin: 0;
+    }
+}

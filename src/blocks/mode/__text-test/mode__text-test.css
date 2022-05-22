@@ -1,0 +1,15 @@
+.mode__text-test {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    text-align: right;
+    color: #23D1AE;
+    margin: 30px 31px 0 0;
+    width: 129px;
+}
+
+@media (min-width: 1000px) {
+    .mode__text-test {
+        margin: 0 31px 0 56px;
+    }
+}

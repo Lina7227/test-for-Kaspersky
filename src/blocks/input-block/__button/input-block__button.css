@@ -1,0 +1,19 @@
+.input-block__button {
+    width: 153px;
+    height: 48px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    padding: 9px 8px;
+    margin: 0 auto;
+    background-color: #FF3748;
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    border:  none;
+}
+
+.input-block__button:hover {
+    opacity: .6;
+}

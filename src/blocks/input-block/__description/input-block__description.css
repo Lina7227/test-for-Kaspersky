@@ -1,0 +1,13 @@
+.input-block__description {
+    display: flex;
+    flex-direction: column;
+    margin: 2px auto 0 12px;
+    width: 77px;
+}
+
+@media (min-width: 700px) {
+    .input-block__description {
+        margin: 2px 6px 0 10px;
+        width: 77px;
+    }
+}

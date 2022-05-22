@@ -1,0 +1,9 @@
+.images__new {
+    display: none;
+}
+
+@media (min-width: 1000px) {
+    .images__new {
+        display: block;
+    }
+}

@@ -1,0 +1,15 @@
+.carousel__check {
+    background-image: url('../../../images/Yes.png');
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    height: 24px;
+    width: 24px;
+    margin: 0 16px 0 0;
+    padding: 0;
+}
+
+@media (min-width: 700px) {
+    .carousel__check {
+        margin: auto auto;
+    }
+}

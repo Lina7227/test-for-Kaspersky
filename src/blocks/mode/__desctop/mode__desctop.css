@@ -1,0 +1,12 @@
+.mode__desctop {
+    display: none;
+}
+
+@media (min-width: 1000px) {
+    .mode__desctop{
+        display: block;
+        background-color: #292927;
+        margin: 0;
+        padding: 0;
+    }
+}

@@ -1,0 +1,30 @@
+.features__container {
+    display: none;
+}
+
+@media (min-width: 700px) {
+    .features__container {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+        border-top: 2px solid #CCCCCC;
+        max-width: 1108px;
+        width: 100%;
+    }
+}
+
+@media (min-width: 1000px) {
+    .features__container {
+        border-top: none;
+    }
+}
+
+
+@media (min-width: 1110px) {
+    .features__container {
+        background-image: url('../../../images/Polygon.png');
+        background-repeat: no-repeat;
+        background-position: 100 100;
+    }
+}

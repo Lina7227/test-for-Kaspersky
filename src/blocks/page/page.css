@@ -1,0 +1,14 @@
+.page {
+    min-width: 360px;
+    font-family: 'Kaspersky', Arial, Helvetica, sans-serif;
+    background-color: #292927;
+    display: grid;
+    position: relative;
+    justify-content: center;
+    grid-template-columns: minmax(320px, 1440px);
+    grid-template-rows: repeat(3, min-content);
+    grid-template-areas: 
+    "header"
+    "content"
+    "footer";
+}

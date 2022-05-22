@@ -1,0 +1,14 @@
+.promo__subtitle-comment {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: left;
+    color: #fff;
+}
+
+@media (min-width: 900px) {
+    .promo__subtitle-comment{
+        margin: 0 20px 0 0;
+        width: 200px;
+    }
+}

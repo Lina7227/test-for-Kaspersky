@@ -1,0 +1,37 @@
+.promo__item {
+    margin: 0 auto;
+    padding: 15px;
+    list-style-type: none;
+    min-width: 290px;
+    height: 240px;
+    background-color:#fff;
+    border-radius: 20px;
+    border: solid 3px #00B07B;
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+@media (min-width: 550px) {
+    .promo__item {
+        min-width: 390px;
+    }
+}
+
+@media (min-width: 750px) {
+    .promo__item {
+        min-width: 500px;
+    }
+}
+
+@media (min-width: 900px) {
+    .promo__item {
+        min-width: 280px;
+    }
+}
+
+@media (min-width: 1250px) {
+    .promo__item {
+        min-width: 340px;
+    }
+}

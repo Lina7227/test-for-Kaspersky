@@ -1,0 +1,6 @@
+.carousel__heading {
+    display: flex;
+    justify-content: flex-start;
+    margin: 0;
+    padding: 0;
+}

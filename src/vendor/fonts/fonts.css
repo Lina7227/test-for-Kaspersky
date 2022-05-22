@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Kaspersky';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./Kaspersky-Bold.woff2') format('woff2'); 
+}
+
+@font-face {
+    font-family: 'Kaspersky';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./Kaspersky-Regular.woff2') format('woff2'); 
+}
+
+@font-face {
+    font-family: 'Kaspersky';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./Kaspersky-Light.woff2') format('woff2'); 
+}

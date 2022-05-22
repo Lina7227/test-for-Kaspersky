@@ -1,0 +1,15 @@
+.buy-tablo__price-text {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+    color: #000;
+}
+
+@media (min-width: 1000px) {
+    .buy-tablo__price-text {
+        font-size: 20px;
+        line-height: 28px;
+    }
+}

@@ -1,0 +1,6 @@
+.input-block__final-cost{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto 6px;
+    padding: 0;
+}

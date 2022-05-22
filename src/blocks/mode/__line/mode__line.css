@@ -1,0 +1,15 @@
+.mode__line {
+    background-image: url('../../../images/block.png');
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    width: 17px;
+    height: 92px;
+    margin: 30px 31px 0 0;
+}
+
+@media (min-width: 1000px) {
+    .mode__line{
+        margin: 0 20px 0 0;
+        height: 96px;
+    }
+}

@@ -1,0 +1,18 @@
+.mode__strip {
+    background: linear-gradient(170.56deg, rgba(126, 255, 51, 0.4) 32.98%, rgba(35, 209, 174, 0.4) 59.89%), #23D1AE;
+    /* transform: matrix(1, 0, 0, -1, 0, 0); */
+    clip-path: polygon(100% 2%, 100% 24%, 0 84%, 0 63%);
+    height: 50px;
+}
+
+@media (min-width: 460px) {
+    .mode__strip{
+        clip-path: polygon(100% 0, 100% 20%, 0 84%, 0 64%);
+    }
+}
+
+@media (min-width: 486px) {
+    .mode__strip{
+        clip-path: polygon(100% 0, 100% 27%, 0 100%, 0 74%);
+    }
+}

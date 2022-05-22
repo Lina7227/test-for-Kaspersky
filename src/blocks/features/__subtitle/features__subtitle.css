@@ -1,0 +1,25 @@
+.features__subtitle {
+    margin: 8px 24px 0;
+    padding: 0;
+    text-align: left;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 32px;
+    color: #444444;
+    display: inline-block;
+}
+
+@media (min-width: 700px) {
+    .features__subtitle {
+        font-size: 21px;
+        line-height: 28px;
+        text-align: center;
+        margin: 0 auto 95px;
+    }
+}
+
+@media (min-width: 1000px) {
+    .features__subtitle {
+        display: none;
+    }
+}

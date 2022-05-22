@@ -1,0 +1,15 @@
+.header__container {
+    width: 80px;
+    position: relative;
+    background-color: #fff;
+    border-radius: 15px;
+    margin: 0;
+    padding: 10px;
+    border: none;
+}
+
+.header__container:focus,
+.header__container:hover {
+	border: 1px solid red;
+	color: black;
+}

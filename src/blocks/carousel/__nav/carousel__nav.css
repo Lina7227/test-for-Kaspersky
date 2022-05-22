@@ -1,0 +1,8 @@
+.carousel__nav {
+    margin: 20px auto 21px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none
+}

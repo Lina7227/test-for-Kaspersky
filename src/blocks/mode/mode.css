@@ -1,0 +1,15 @@
+.mode {
+    display: flex;
+    flex-direction: column;
+    min-width: 360px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+@media (min-width: 1000px) {
+    .mode {
+        background-color: #292927;
+    }
+}

@@ -1,0 +1,14 @@
+.carousel__table-cell {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 2200px;
+    width: 100%;
+    background-color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: .4s;
+    opacity: 0;
+    box-sizing: border-box;
+}

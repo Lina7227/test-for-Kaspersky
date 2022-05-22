@@ -1,0 +1,32 @@
+.mode__decor{
+    display: block;
+    height: 52px;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(-185deg, rgba(1, 50, 35, 0) 45%, #1D1D1B 0%);
+    border: none;
+}
+
+@media (min-width: 486px) {
+    .mode__decor{
+        background: linear-gradient(-184deg, rgba(1, 50, 35, 0) 45%, #1D1D1B 0%);
+    }
+}
+
+@media (min-width: 604px) {
+    .mode__decor{
+        background: linear-gradient(-183deg, rgba(1, 50, 35, 0) 45%, #1D1D1B 0%);
+    }
+}
+
+@media (min-width: 800px) {
+    .mode__decor{
+        background: linear-gradient(-182deg, rgba(1, 50, 35, 0) 45%, #1D1D1B 0%);
+    }
+}
+
+@media (min-width: 1000px) {
+    .mode__decor{
+        display: none;
+    }
+}

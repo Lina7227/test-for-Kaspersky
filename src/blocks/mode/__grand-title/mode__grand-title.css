@@ -1,0 +1,9 @@
+.mode__grand-title {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 52px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: #fff;
+    margin: 62px auto 70px;
+}

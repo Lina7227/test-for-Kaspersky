@@ -1,0 +1,9 @@
+.text__new {
+    display: none;
+}
+
+@media (min-width: 1000px) {
+    .text__new {
+        display: inline-block;
+    }
+}

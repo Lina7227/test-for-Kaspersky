@@ -1,0 +1,14 @@
+.promo__content-programm {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+@media (min-width: 900px) {
+    .promo__content-programm{
+        width: 500px;
+    }
+}

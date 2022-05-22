@@ -1,0 +1,17 @@
+.mode__subtitle {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 27px;
+    color: #444444;
+    text-align: left;
+    margin: 0 24px 22px;
+}
+
+@media (min-width: 1000px) {
+    .mode__subtitle {
+        font-size: 28px;
+        line-height: 32px;
+        margin: 0 auto 47px;
+        width: 260px;
+    }
+}
